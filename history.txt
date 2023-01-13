@@ -1,2 +1,17 @@
 history
+<<<<<<< HEAD
 Naci en 1978
+=======
+df
+sdf
+sdff
+dsf
+dff
+dffd
+f
+dffdd
+f
+df
+Cambio nuevo pruebas para curso de git
+    
+>>>>>>> cabecera
